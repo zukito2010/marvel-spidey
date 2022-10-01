@@ -1,5 +1,6 @@
 style.css
 .asd {
+  text-align:right;
   
 
 }
@@ -7,10 +8,12 @@ body {
   background-color:blue;
 }
 header{
-  bacgroun-color:red;
+  background-color:red;
+  height: 50px;
 }
 footer{
-  bacgroun-color:red;
+  background-color:red;
+  height: 50px;
  }
 .dsa {
   justify-content:center;
